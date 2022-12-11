@@ -22,3 +22,15 @@ This post is to keep my daily accountability, productivity and progress in check
 * What did I debugged today?
 * Things Learnt
 * Others
+
+2022.12.11
+* What did I read today?
+* What did I watch today?
+*Learn Javascript - Full Course for Beginners* 00:00:00 ~ 02:00:00
+* What did I learn today?
+* What did I study today?
+* What did I practice today?
+* What did I try to do today?
+* What did I debugged today?
+* Things Learnt
+* Others
